@@ -2,7 +2,7 @@
 
 ## Live Link:
 
-link: https://employee-management-75.surge.sh/
+link: employee-ease2.vercel.app
 
 ## Website Features:
 
